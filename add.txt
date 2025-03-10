@@ -1,2 +1,5 @@
 hello hi
-who are u
+<<<<<<< HEAD
+=======
+How are u
+>>>>>>> dev
